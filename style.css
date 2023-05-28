@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & display=swap');
+body{
+    background-color: hsla(345, 4%, 82%, 0.91);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif, cursive;
+    font-size: 20px;
+}
+ 
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+    text-align: center;
+    font-size: 60px;
+}
+.info{
+    display: flex;
+    justify-content: right;
+}
+.info2{
+    margin-right: 200px;
+}
+.imagen2{
+    width: 300px;
+    height: 300px;
+}
+.biografia2{
+    font-size: 40px;
+    text-align: center;
+}
+.canserbero{
+    text-align: center;
+}
